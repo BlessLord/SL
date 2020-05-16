@@ -1,5 +1,5 @@
 # FakeNews Detection with Propensity Score Matching
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BlessLord/fakeNews/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BlessLord/SL/master)
 
 This is a repository for [_Improving Generalizability of Fake News Detection Methods using Propensity Score Matching_](https://arxiv.org/abs/2002.00838) Note that the approach is in general suitable for any text analysis involving feature selection.
 
